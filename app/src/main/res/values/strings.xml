@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">NarutoDataApp</string>
+    <string name="Hashirama_Senju">Hashirama Senju</string>
+    <string name="Hashirama_descp">Fue el fundador de la aldea oculta de la hoja, primer Hokage y el líder del clan Senju.
+        Hashirama fue un ninja mítico que tenía el poder de manipular la madera, una habilidad especial que solo tenía él.
+        Además, fue el único que pudo pelear de igual a igual con Madara Uchiha, el líder del clan enemigo Uchiha.
+        Su sueño era crear una aldea donde los ninjas pudieran vivir en paz, pero las cosas no salieron como él deseaba.</string>
+    <string name="Tobirama_Senju">TobiramaSenju</string>
+    <string name="Tobirama_descp">
+        Hashirama Senju fue el segundo Hokage de la aldea oculta de la hoja, conocido principalmente por inventar muchas técnicas poderosas que se volvieron famosas,
+        como el Edo Tensei, el Hiraishin o el Kage Bunshin. También quería la paz entre las aldeas ninja como su hermano, pero también era fiel a su deber y a su honor,
+        siendo un maestro innato con gran inteligencia. Murió luchando y dejó el cargo de Hokage a Hiruzen Sarutobi.
+    </string>
+    <string name="Minato_Namikaze">Minato Namikaze</string>
+    <string name="Minato_descp">
+        Es el padre de Naruto Uzumaki, quien en su momento era el cuarto Hokage de la aldea oculta de la hoja.
+        Minato fue un ninja extraordinario que se hizo famoso por su rapidez, inteligencia y destreza para sellar, tanto así que era conocido como el "Rayo Amarillo".
+        A su vez, fue quien inventó el Rasengan y quien selló al Kyubi dentro de su hijo, dando su vida para salvar a la aldea de su ataque.
+    </string>
+    <string name="Orochimaru">Orochimaru"</string>
+    <string name="Orochimaru_descp">
+        Junto con Jiraiya y Tsunade, Orochimaru formó parte de los tres Sannin legendarios, pero tomó el camino del mal.
+        Era un ninja que ansiaba el conocimiento y la inmortalidad sin importarle el precio. Para lograrlo, hizo experimentos con su cuerpo y con otros ninjas,
+        creando criaturas horribles y poniendo a prueba técnicas prohibidas. Fue uno de los principales enemigos de la primera serie,
+        donde luchó contra sus antiguos amigos, alumnos y todo el que se interpusiera en su camino.
+    </string>
+    <string name="Jiraiya">Jiraiya</string>
+    <string name="Jiraiya_descp">
+        Jiraiya era un ninja nómada que le encantaba viajar, coquetear con las mujeres y escribir novelas inspiradas en sus propias vivencias.
+        Entre sus características más importantes está su uso del chakra natural que le daba la capacidad de llamar a sapos enormes y usar el Modo Ermitaño con el que obtenía ventaja física.
+        Definitivamente, fue un guía y lo más similar a un padre que tuvo Naruto.
+    </string>
+    <string name="Tsunade">Tsunade</string>
+    <string name="Tsunade_descp">
+        La quinta Hokage de la aldea oculta de la hoja fue Tsunade, uno de los personajes femeninos de Naruto más relevantes durante el ataque de los Akatsuki.
+        Como ninja médico, domina el arte de la sanación y la regeneración de forma experta. Al mismo tiempo, es capaz de incrementar su fuerza física mediante el uso del chakra,
+        lo que la convierte en una combatiente formidable.
+    </string>
+    <string name="Killer_B">Killer B</string>
+    <string name="Killer_B_descp">
+        El Hachibi, el pulpo-ternero de ocho colas, tiene como jinchuriki a Killer B, uno de los pocos que logró controlar su bestia interior.
+        Este es un ninja de la aldea oculta de las nubes y el hermano adoptivo del Raikage.
+        Lo que lo hace especial en comparación con los demás es su actitud divertida y sociable, pero sobre todo que le encanta hacer rap y rimar en todas sus frases.
+        A su vez, es considerado como un experto en el kenjutsu, siendo capaz de usar hasta ocho espadas al mismo tiempo.
+    </string>
+    <string name="Nagato_Pain">Nagato Pain</string>
+    <string name="Nagato_Pain_descp">
+        Nagato era un huérfano que vivió la guerra y el sufrimiento desde pequeño.
+        Su dolor le hizo buscar la paz a través del dolor de los demás, pensando que así se podría apreciar la vida. Sin embargo,
+        las cosas escalaron a más y usó los seis caminos del dolor, seis cadáveres que manejaba con su Rinnegan para atrapar las nueve bestias con cola y crear un arma definitiva que pudiera acabar con el mundo.
+    </string>
+    <string name="Itachi_Uchiha">Itachi Uchiha</string>
+    <string name="Itachi_Uchiha_descp">
+        Se trata de un ninja prodigio que se graduó en la academia a los siete años y se convirtió en capitán del ANBU a los trece.
+        Sin embargo, su vida cambió cuando tuvo que asesinar a su propio clan por orden de la aldea, dejando vivo solo a su hermano Sasuke.
+        Su objetivo era proteger a la aldea y a su hermano de una guerra civil, aunque para ello tuviera que convertirse en un criminal y un traidor,
+        terminando como uno de los integrantes de los Akatsuki.
+    </string>
+    <string name="Kakashi_Hatake">Kakashi Hatake</string>
+    <string name="Kakashi_descp">
+        Kakashi Hatake fue el sensei del equipo siete, compuesto por Naruto Uzumaki, Sasuke Uchiha y Sakura Haruno.
+        Fue un ninja dotado y curtido que se ganó el sobrenombre de "el ninja copia" por su capacidad para copiar las técnicas de sus rivales con su Sharingan.
+        Aunque fue un ninja severo y riguroso, también era bondadoso y comprensivo dependiendo de las situaciones. En efecto, Kakashi está entre los personajes más fuertes de Naruto,
+        destacando por su inteligencia, su experiencia y su dominio de diversos movimientos especiales como el Chidori. Además, durante el estado grave de Tsunade, se convirtió en uno de los Hokages de la aldea oculta de la hoja.
+    </string>
+    <string name="Madara_Uchiha">Madara Uchiha</string>
+    <string name="Madara_Uchiha_descp">
+        Madara Uchiha fue el creador del clan Uchiha y el enemigo perpetuo de Hashirama Senju.
+        Sin duda un ninja fuerte y codicioso que quería crear un mundo perfecto bajo su mando, llevando las cosas al límite para lograrlo.
+        Activó el Rinnegan para invocar al árbol sagrado, una entidad que podía absorber el chakra de todos los seres vivos.
+        Madara se ganó el respeto de los fans como el antagonista principal de la serie, pues llega a luchar contra los cinco Kages y los nueve jinchurikis sin problema.
+    </string>
+    <string name="Rock_Lee">Rock Lee</string>
+    <string name="Rock_Lee_descp">
+        Aunque Rock Lee no tiene aptitud para el ninjutsu ni el genjutsu, entrenó duro para dominar el taijutsu al máximo y ser un gran ninja especializado únicamente en este arte como su maestro Might Guy.
+        Su optimismo, su fidelidad a sus compañeros y su admiración por sus maestros lo hacen un personaje digno de llevar el título como uno de los mejores de la franquicia,
+        sobre todo porque también alcanzó su máximo potencial al dominar las ocho puertas prohibidas.
+    </string>
+    <string name="Sasuke_Uchiha">Sasuke Uchiha</string>
+    <string name="Sasuke_Uchiha_descp">
+        La vida de Sasuke Uchiha estuvo marcada por el dolor de perder a su familia a causa de su hermano mayor.
+        Ese trauma lo impulsó a buscar venganza, pero también lo hizo madurar como ninja y como humano.
+        Su relación con Naruto fue clave para el desarrollo de la trama y su arrepentimiento final demostró su habilidad para cambiar y aceptar las faltas que había cometido.
+    </string>
+    <string name="Naruto_Uzumaki">Naruto Uzumaki</string>
+    <string name="Naruto_Uzumaki_descp">
+        Naruto Uzumaki es el protagonista del anime y el que tuvo una evolución más notable durante toda la historia.
+        Al principio era un niño solo que nadie quería por ser un jinchuriki, pero al crecer le demostró a todos que podía dominar sus habilidades y daría la vida por cualquier habitante de la aldea oculta de la hoja.
+        Su fuerza, su alegría, su bondad y sus ganas de no darse por vencido lo hicieron el ninja más fuerte, convertirse así en el Hokage que siempre quiso.
+    </string>
+    <string name="Obito_Uchiha">Obito Uchiha</string>
+    <string name="Obito_Uchiha_descp">
+        Uno de los enemigos más relevantes y tristes de todo el anime fue Obito Uchiha.
+        Su sueño era ser Hokage, pero cuando Rin murió, hizo que su vida cambiara para siempre, terminando en un mal camino.
+        De esta manera, se hizo el alumno de Madara Uchiha y el jefe de Akatsuki con el nombre de "Tobi", ocultándose detrás de una máscara.
+        Su plan era hacer un mundo falso donde todos fueran felices, pero en verdad era porque no quería sufrir más. Al final, se dio cuenta de que estaba mal y ayudó a detener a Kaguya.
+    </string>
+    
+    /*Aqui van los String de las breves drescripcion de las imagenes*/
+    <string name="hashirama_img_desc">Hashirama Senju fue el fundador de la Aldea de Oculta de la Hoja primer Hokage</string>
+    <string name="tobi_img_desc">Tobirama Senju fue el responsable de crear el Edo Tensei</string>
+    <string name="minato_img_desc">Minato Namikaze era conocido como el Reayo Amarillo</string>
+    <string name="orochimaru_img_desc">Orochimaru solo deseaba vivir para siempre</string>
+    <string name="jiraiya_img_desc">Jiraiya fue como un padre para Naruto Uzumaki</string>
+    <string name="tsunade_img_desc">Tsunade se ganó el respeto de los habitantes de la Aldea de la Hoja</string>
+    <string name="killer_b_img_desc">Killer Bee es el jinchuriki del Hachibi</string>
+    <string name="nagato_img_desc">Nagato pudo destruir a una aldea entera usando el Rinnegan</string>
+    <string name="kakashi_img_desc">Kakashi Hatake cuenta con una gran habilidad para copiar técnicas y usar el chidori</string>
+    <string name="madara_img_desc">Todos los eventos desafortunados de Naruto fueron culpa del plan de Madara Uchiha</string>
+    <string name="rock_lee_img_desc">Rock Lee solo usa el Taijutsu para pelear</string>
+    <string name="sasuke_img_desc">Sasuke Uchiha siempre deseaba la venganza contra su hermano y enemigos</string>
+    <string name="naruto_img_desc">Nada detuvo a Naruto Uzumaki de cumplir su sueños</string>
+    <string name="obitp_img_desc">Obito Uchiha ha guardado mucho dolor por mucho tiempo</string>
+    <string name="itachi_img_desc">Itachi Uchiha ue uno de lo mejores usuarios con Sharingan</string>
+</resources>
